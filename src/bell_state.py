@@ -1,7 +1,4 @@
-# src/bell_state.py
-# Experimento 1: Estado de Bell |Φ+⟩ — Entrelazamiento Cuántico
-# Unidad 12: Computación Emergente y Tendencias
-# Arquitectura de Computadores — UFPS 2026
+
 
 from qiskit import QuantumCircuit
 from qiskit_aer import AerSimulator
