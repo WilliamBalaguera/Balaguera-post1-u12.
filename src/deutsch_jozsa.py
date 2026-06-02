@@ -1,7 +1,3 @@
-# src/deutsch_jozsa.py
-# Experimento 2: Algoritmo de Deutsch-Jozsa
-# Unidad 12: Computación Emergente y Tendencias
-# Arquitectura de Computadores — UFPS 2026
 
 from qiskit import QuantumCircuit
 from qiskit_aer import AerSimulator
