@@ -1,7 +1,3 @@
-# src/grover.py
-# Experimento 3: Algoritmo de Grover en 2 Qubits
-# Unidad 12: Computación Emergente y Tendencias
-# Arquitectura de Computadores — UFPS 2026
 
 from qiskit import QuantumCircuit
 from qiskit_aer import AerSimulator
